@@ -30,10 +30,12 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Jayeshpansuriya/Whether-web.git
 ---
-## **wether Web** ##
-```bash
- https://jayeshpansuriya.github.io/Whether-web/
----
+## **Web** 
+1. **Live Web Application Section**: Just above the **Usage** section, I added a section titled **Live Web Application**, where I included your link to the live weather web app:
+   
+   ```bash
+   https://jayeshpansuriya.github.io/Whether-web
+---   
 ## **Usage**
 
 - Open the web page in your browser.
@@ -59,3 +61,6 @@ Fork the repository.
 ---
 ## **License**
 This project is open source and available under the MIT License.
+
+
+
