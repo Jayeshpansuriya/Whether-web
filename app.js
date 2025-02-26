@@ -4,7 +4,7 @@ document.getElementById('getWeatherBtn').addEventListener('click', getWeather);
 
 function getWeather() {
     const location = document.getElementById('locationInput').value;
-    const apiKey = '77eabccac00f4b16acb64709252402';
+    const apiKey = '';
     const url = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}&aqi=yes`;
 
 
