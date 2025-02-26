@@ -30,6 +30,10 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Jayeshpansuriya/Whether-web.git
 ---
+## **wether Web** ##
+```bash
+ https://jayeshpansuriya.github.io/Whether-web/
+---
 ## **Usage**
 
 - Open the web page in your browser.
