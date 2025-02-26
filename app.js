@@ -1,5 +1,7 @@
 document.getElementById('getWeatherBtn').addEventListener('click', getWeather);
 
+document.getElementById('getWeatherBtn').addEventListener('click', getWeather);
+
 function getWeather() {
     const location = document.getElementById('locationInput').value;
     const apiKey = '77eabccac00f4b16acb64709252402';
